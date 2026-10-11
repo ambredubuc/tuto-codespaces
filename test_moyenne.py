@@ -11,7 +11,6 @@ from moyenne import moyenne
 
 def test_moyenne():
     """Vérifie le calcul de la moyenne de deux valeurs."""
-   
     assert moyenne([10, 20]) == 15
 
 
